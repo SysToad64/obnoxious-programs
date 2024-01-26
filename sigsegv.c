@@ -10,3 +10,10 @@ int main()
     sigsegv = "Well now I wont do a SIGSEGV\n";
     printf("%s\n", ((char *)0x555555556004));
 }
+
+
+/*
+ * What it does:
+ * it Seg Faults when it's ran, onless it's being debugged
+ * Then it says 'Well now I wont do a SIGSEGV'
+ */
