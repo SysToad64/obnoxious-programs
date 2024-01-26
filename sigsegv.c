@@ -1,3 +1,6 @@
+// Made by: SysToad64
+// SIGSEGV'nt
+
 #include <stdio.h>
 
 int main()
