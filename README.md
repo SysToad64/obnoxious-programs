@@ -1,2 +1,2 @@
-# obnoxious-programs
+# Obnoxious Programs
 Some Stupid Programs
