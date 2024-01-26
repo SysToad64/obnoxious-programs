@@ -1,5 +1,6 @@
 // Made by: SysToad64
 // SIGSEGV'nt
+// Made for Linux
 
 #include <stdio.h>
 
