@@ -14,6 +14,6 @@ int main()
 
 /*
  * What it does:
- * it Seg Faults when it's ran, onless it's being debugged
+ * it Seg Faults when it's ran, unless it's being debugged
  * Then it says 'Well now I wont do a SIGSEGV'
  */
