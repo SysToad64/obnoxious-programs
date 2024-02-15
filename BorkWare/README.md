@@ -16,4 +16,4 @@ and ive not added anything to it besides the Readme it's nothing
 
 ---
 
-My dad gave me this idea because i'm good at breaking things 
+My dad gave me this idea because i'm good at breaking things and because he thoght it would be fun for me
