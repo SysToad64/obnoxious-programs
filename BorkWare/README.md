@@ -13,3 +13,7 @@
 
 This is a W.I.P.\
 and ive not added anything to it besides the Readme it's nothing
+
+---
+
+My dad gave me this idea because i'm good at breaking things 
